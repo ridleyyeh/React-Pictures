@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0rem;
+
+  input,
+  button {
+    font-size: 1.5rem;
+    color: black;
+    padding: 0.25rem;
+    border: 1.5px solid rgb(85, 46, 30);
+    font-family: "Anta", sans-serif;
+  }
+  button {
+    background-color: rgb(255, 255, 255);
+    
+  }
+}
